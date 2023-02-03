@@ -39,7 +39,7 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store가
 
 .gradle
 .idea
