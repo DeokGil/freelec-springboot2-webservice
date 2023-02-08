@@ -37,4 +37,5 @@ dependencies {
     annotationProcessor('org.projectlombok:lombok')
     testAnnotationProcessor('org.projectlombok:lombok')
     testAnnotationProcessor('com.h2database:h2')
+    testImplementation("org.springframework.security:spring-security-test")
 }
